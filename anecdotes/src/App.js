@@ -43,7 +43,7 @@ const MessageBox = ({ header, message, votes, background }) => {
         <div>
           <div>
             <span>
-              <strong style={{ fontSize: "1.5em" }}>{message}</strong>
+              <strong style={{ fontSize: "1em" }}>{message}</strong>
             </span>
           </div>
           {votes !== undefined && renderVotes}
