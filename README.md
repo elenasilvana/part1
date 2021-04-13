@@ -2,17 +2,17 @@
 
 ## Contents
 
-### CourseInfo
+### CourseInfo App
 
 ![CourseInfo](images/course-info-app.jpg)
 
-### Unicafe
+### Unicafe App
 
 ![Unicafe](images/unicafe-app.jpg)
 
 ![Unicafe](images/unicafe-app2.jpg)
 
-### Anecdotes
+### Anecdotes App
 
 ![AnecdoteApp](images/anecdote-app.jpg)
 
